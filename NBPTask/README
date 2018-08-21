@@ -1,0 +1,5 @@
+To Execute the Program-
+Download the Project
+Go to the classes folder
+Execute the following Command-
+java pl.parser.nbp.MainClass EUR 2013-01-28 2013-01-31 

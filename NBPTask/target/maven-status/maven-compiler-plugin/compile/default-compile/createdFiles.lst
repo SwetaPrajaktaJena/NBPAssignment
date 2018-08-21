@@ -1,0 +1,10 @@
+pl\parser\nbp\MainClass.class
+pl\parser\nbp\inputChecker\InputChecker.class
+pl\parser\npb\Model\Request.class
+pl\parser\npb\Model\Response.class
+pl\parser\npb\Services\ServiceConnectionImpl.class
+pl\parser\nbp\inputChecker\NPBExchangeRate.class
+pl\parser\nbp\Parser\Parser.class
+pl\parser\npb\Constants\Constants.class
+pl\parser\nbp\Parser\ParserImpl.class
+pl\parser\npb\Services\ServiceConnection.class
